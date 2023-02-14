@@ -1,2 +1,2 @@
-# hello-word-1
+# hello-world-1
 exercicio
